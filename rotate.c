@@ -26,8 +26,4 @@ void f_rotr(stack_t **head, __attribute__((unused)) unsigned int counter)
 	(*head)->prev = copy;
 	(*head) = copy;
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
 
